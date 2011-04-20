@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, two!</string>
+    <string name="app_name">Excercise2</string>
+    <string name="submit_label">Submit</string>
+    <string name="message">Message</string>
+    
+</resources>
+
